@@ -1,0 +1,35 @@
+<recipes>
+<recipe>
+<name>bread</name>
+<ingredients>
+<ingredients> 
+<name>flour<?\name>
+<amount>1</amount>
+<measure>cup</measure</ingredients>
+<ingredients> 
+<ingredients>
+<name>yeast<name>
+<amount>3</amount>
+<measure>teaspoons<?measure>
+<ingredients>
+</recipe>
+<recipe>
+<name>mimosa</name>
+<ingredients>
+</recipe>
+<recipe>
+<name>mimosa</name>
+    <ingredients>
+        ingredients>
+        <name>Orange Juice</name>
+            <amount>1</amount>
+            <measure>cup</measure>
+            </ingredient>
+            <ingredient>
+                <name>Champagne</name>
+                <amount>1</amount>
+                <measure>gallon</measure>
+            </ingredients>
+         </ingredient>
+        </recipe>
+        </recipes>
