@@ -1,0 +1,12 @@
+WHY are we using promises here?
+
+answer they offer Chaining, and they allow you some control over timing since they are never called synchronously.
+
+What benefits are there for breaking out these functions into their own resource?
+
+answer Allows for better organization to make things less complicated to locate when debugging.
+
+What other functionality could you foresee leveraging this separation of concerns technique with?
+
+answer it would allow you not only to better sort your functions but it also allows you to separate certain features 
+of your application such as CRUD.
